@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"DictionaryBuilder"},{"p":"<Unnamed>","l":"DictionaryShell"},{"p":"<Unnamed>","l":"entry"},{"p":"<Unnamed>","l":"GenericLinkedList.GenericIterator"},{"p":"<Unnamed>","l":"GenericLinkedList"},{"p":"<Unnamed>","l":"GenericLinkedList.Node"}];updateSearchResults();
